@@ -16,6 +16,24 @@
       "message": "found typo",
       "revId": "15f33a2ff20e3e3e1932cf1f2a5aff8b67540c03",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df5f1cee_4711a97e",
+        "filename": "text1.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1038100
+      },
+      "writtenOn": "2024-06-11T07:31:44Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "82f878d4_24858a68",
+      "revId": "15f33a2ff20e3e3e1932cf1f2a5aff8b67540c03",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
